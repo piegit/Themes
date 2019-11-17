@@ -5,10 +5,10 @@ A collection of uLaunch Themes
 
 Previews:
 
-![Home](https://imgur.com/Mqf8o55)
+![Home](https://i.imgur.com/Mqf8o55.jpg)
 
-![Folder](https://imgur.com/F4jHIUc)
+![Folder](https://i.imgur.com/F4jHIUc.jpg)
 
-![Homebrew Menu](https://imgur.com/ANLwV0N)
+![Homebrew Menu](https://i.imgur.com/ANLwV0N.jpg)
 
 
