@@ -3,13 +3,12 @@ A collection of uLaunch Themes
 
 # Xbox Theme
 
-Home:
-https://imgur.com/Mqf8o55
+Previews:
 
-Folder:
-https://imgur.com/F4jHIUc
+![Home](https://imgur.com/Mqf8o55)
 
-Homebrew Menu:
-https://imgur.com/ANLwV0N
+![Folder](https://imgur.com/F4jHIUc)
+
+![Homebrew Menu](https://imgur.com/ANLwV0N)
 
 
