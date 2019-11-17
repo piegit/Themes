@@ -4,6 +4,7 @@ A collection of uLaunch Themes
 # Xbox Theme
 
 Credits to Hax4dayz for the background image and the cursor
+
 Previews:
 
 ![Home](https://i.imgur.com/Mqf8o55.jpg)
