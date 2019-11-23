@@ -1,7 +1,7 @@
 {
 
     "menu_bg_color": "#7fb64e",
-	"menu_focus_color": "#7fb64e",
+    "menu_focus_color": "#7fb64e",
     "menu_folder_text_x": 30,
     "menu_folder_text_y": 200,
     "menu_folder_text_size": 25,
