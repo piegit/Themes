@@ -19,14 +19,14 @@ Hello XorTroll
 
 Previews:
 
-![Home](https://github.com/piegit/Themes/Images/ulaunch_wii/menu.jpg)
+![Home](https://raw.githubusercontent.com/piegit/Themes/master/Images/ulaunch_wii/menu.jpg)
 
-![Folder](https://github.com/piegit/Themes/Images/ulaunch_wii/folder.jpg)
+![Folder](https://raw.githubusercontent.com/piegit/Themes/master/Images/ulaunch_wii/folder.jpg)
 
-![Homebrew Menu](https://github.com/piegit/Themes/Images/ulaunch_wii/hbmenu.jpg)
+![Homebrew Menu](https://raw.githubusercontent.com/piegit/Themes/master/Images/ulaunch_wii/hbmenu.jpg)
 
-![Settings](https://github.com/piegit/Themes/Images/ulaunch_wii/set.jpg)
+![Settings](https://raw.githubusercontent.com/piegit/Themes/master/Images/ulaunch_wii/set.jpg)
 
-![Themes Menu](https://github.com/piegit/Themes/Images/ulaunch_wii/themes.jpg)
+![Themes Menu](https://raw.githubusercontent.com/piegit/Themes/master/Images/ulaunch_wii/themes.jpg)
 
 
