@@ -1,0 +1,109 @@
+{
+
+    "menu_bg_color": "#5fc2e5",
+    "menu_focus_color": "#0f8fe5",
+    "menu_folder_text_x": 30,
+    "menu_folder_text_y": 200,
+    "menu_folder_text_size": 25,
+    "suspended_final_alpha": 0,
+	"text_color": "#555555",
+	
+	"main_menu": {
+		
+	"banner_image": {
+      "visible": false
+    },
+
+    "banner_name_text": {
+      "x": 50,
+      "y": 10
+    },
+
+    "banner_version_text": {
+      "x": 50,
+      "y": 85
+    },
+
+    "banner_author_text": {
+      "x": 50,
+      "y": 55
+    },
+
+	"battery_icon": {
+		"x": 577,
+		"y": 611
+		},
+
+		"battery_text": {
+		"x": 651,
+		"y": 619
+		},
+
+		"connection_icon": {
+		"x": 525,
+		"y": 611
+		},
+
+		"firmware_text": {
+		"visible": false
+		},
+
+		"items_menu": {
+		"x": 0,
+		"y": 201
+		},
+
+		"logo_icon": {
+		"x": 0,
+		"y": 2000
+		},
+
+		"menu_toggle_button": {
+		"x": 951,
+		"y": 575
+		},
+
+		"settings_icon": {
+			"x": 51,
+			"y": 516
+		},
+
+		"themes_icon": {
+		"x": 1064,
+		"y": 520
+		},
+
+		"time_text": {
+		"x": 577,
+		"y": 550
+		},
+
+		"top_menu_bg": {
+		"x": 0,
+		"y": 473
+		},
+
+		"user_icon": {
+		"x": 465,
+		"y": 608
+    },
+		"web_icon": {
+		"x": 223,
+		"y": 600
+	},
+
+"startup_menu": {
+
+	"info_text": {
+		"visible": false
+	},
+
+"settings_menu": {
+
+	"info_text": {
+		"visible": false
+				}
+			}
+		}
+	}
+}
